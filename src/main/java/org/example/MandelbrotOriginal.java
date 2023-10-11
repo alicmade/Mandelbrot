@@ -132,7 +132,7 @@ public class MandelbrotOriginal extends Canvas {
             }
         }
 
-        // paint grid boundaries
+         // paint grid boundaries
         if (optDrawGrid) {
             drawGrid(srcx, srcy, size, Color.BLACK.getRGB());
         }
