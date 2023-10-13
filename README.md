@@ -1,6 +1,8 @@
 # Mandelbrot
 
 Práctica de Concurrencia con Java Executors: Cálculo y Visualización del Conjunto de Mandelbrot
+https://github.com/alicmade/Mandelbrot.git
+
 
 Referencia: https://www.linkedin.com/pulse/visualizador-del-conjunto-de-mandelbrot-sergio-mart%C3%AD-torregrosa
 
