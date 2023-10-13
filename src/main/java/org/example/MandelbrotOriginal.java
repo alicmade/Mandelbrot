@@ -213,7 +213,7 @@ public class MandelbrotOriginal extends Canvas {
      *  -p : render in parallel (default: sequential)
      *  -g : draw grid of pixels drawn by leaf tasks (default: off)
      */
-    public static void main(String args[]) {
+   public static void run(String args[]) {
         boolean optParallel = false;
         boolean optDrawGrid = false;
         for (int i = 0; i < args.length; i++) {
